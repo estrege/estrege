@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eve, an <a href="https://linkedin.com/in/eve-strege-19a717ba>IT Professional</a>☺</h1>
+<h1>Hi, I'm Josh, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
